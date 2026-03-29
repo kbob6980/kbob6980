@@ -2,7 +2,7 @@
 
 **`IT is cool`**
 
-I'm an IT Specialist, Cybersecurity student and dark humour enthusiast.
+I'm an IT Specialist, Cybersecurity student and dark humour enthusiast. Consider this Readme to be an Alpha version, I'd try to make it cooler in my free time :)
 
 ---
 
