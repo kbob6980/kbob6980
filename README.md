@@ -1,8 +1,11 @@
-# 😎 Jakub Bobkowski
+# Jakub Bobkowski
 
-**`IT is cool`**
+**`Are motivational quotes still a thing?`**
 
-I'm an IT Specialist, Cybersecurity student and dark humour enthusiast.
+I'm an IT Specialist, Cybersecurity Student and Dark Humour Enthusiast.\
+<img width="24" height="24" alt="image" src="https://www.svgrepo.com/show/395626/pc.svg" />
+<img width="24" height="24" alt="image" src="https://www.svgrepo.com/show/36681/spy.svg" />
+<img width="24" height="24" alt="image" src="https://www.svgrepo.com/show/220086/health-clinic-health-care.svg" />
 
 ---
 
