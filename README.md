@@ -1,7 +1,5 @@
 # Jakub Bobkowski
 
-**`Are motivational quotes still a thing?`**
-
 I'm an IT Specialist working in healthcare and a cybersecurity student.
 <!-- <img width="24" height="24" alt="image" src="https://www.svgrepo.com/show/36681/spy.svg" />
 <img width="24" height="24" alt="image" src="https://www.svgrepo.com/show/220086/health-clinic-health-care.svg" /> -->
